@@ -22,11 +22,14 @@ project/
 └── data/result.png
 
 └── notebooks/crawler.ipynb
-                    # Other project source code
+
+# Other project source code
 Dependencies
 pandas
 pandas-datareader
 requests
+
+
 You can install all dependencies using the following command:
 
 pip install pandas pandas-datareader requests
@@ -38,6 +41,7 @@ Usage Instructions
 3. Open Visual Studio Code and navigate to the project directory.
 
 4. Run the following command in the integrated terminal:
+
 
 python scripts/fetch_cpi_data.py
 Output
