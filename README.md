@@ -11,11 +11,16 @@ This project aims to fetch the US Consumer Price Index (CPI) data from FRED (Fed
 Directory Structure
 project/
 │
+
 ├── scripts/
+
 │   └── fetch_cpi_data.py    # Script to fetch CPI data and calculate inflation rate
 │
+
 └── src/requirements.txt
+
 └── data/result.png
+
 └── notebooks/crawler.ipynb
                     # Other project source code
 Dependencies
